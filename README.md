@@ -17,3 +17,7 @@
 
  En este tercer ejercicio se creo un programa el cual saque un promdeio de edad y confirme si cumple o no con la mayoria de edad.
  Primero se pide al usuario que ingrese un total de 5 edades las cuales se guardaran y con ayuda de un acumulador poder saber el resultado de sumar estas edades, luego sacamos el promedio dividiendo el acumulado por la cantidad de edades introducidad que en este caso es 5, al final el programa nos arroja el resultado de si el promedio de edad cumple con la mayoria de edad o no.
+
+ Ejercicio 4 explicacion:
+ 
+ Es un programa el cual nos dira si un año es o no bisiesto, para ello empezara pidiendo un año al usuario, despues se analiza y el año es divisible por 4, si no lo es entonces no s un año bisiesto y si lo es entonces se analizara si es divisible por 100, si no lo es entonces es año bisiesto, y si no entonces se analizara si ese numero tambien puede ser divisible por 400, si es divisible por 400 entonces si es bisiesto y si no es divisible por 400 entonces no es un año bisiesto.
